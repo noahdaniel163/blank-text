@@ -10,6 +10,6 @@ adobe.com
 *microsoft.com*
 microsoft.com
 *.microsoft.com
-^microsoft\.com/.*
-
-
+*edrawmax.com*
+edrawmax.com
+*.edrawmax.com
