@@ -1,4 +1,15 @@
 *goodsync.com*
 *.goodsync.com
 goodsync.com
-*://*.goodsync.com/*
+*logitech.com*
+logitech.com
+*.logitech.com
+*adobe.com*
+adobe.com
+*.adobe.com
+*microsoft.com*
+microsoft.com
+*.microsoft.com
+^microsoft\.com/.*
+
+
