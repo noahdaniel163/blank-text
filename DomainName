@@ -10,9 +10,18 @@ logitech.com
 adobe.com
 *.adobe.com
 
-*microsoft.com*
-microsoft.com
-*.microsoft.com
+*windowsupdate.microsoft.com*
+windowsupdate.microsoft.com
+*.windowsupdate.microsoft.com
+*update.microsoft.com*
+update.microsoft.com
+*.update.microsoft.com
+*windowsupdate.com*
+windowsupdate.com
+*.windowsupdate.com
+*download.windowsupdate.com*
+download.windowsupdate.com
+*.download.windowsupdate.com
 
 *edrawmax.com*
 edrawmax.com
