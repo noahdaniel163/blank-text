@@ -10,6 +10,9 @@ logitech.com
 adobe.com
 *.adobe.com
 
+*.microsoft.com
+microsoft.com
+*microsoft.com*
 *windowsupdate.microsoft.com*
 windowsupdate.microsoft.com
 *.windowsupdate.microsoft.com
