@@ -45,3 +45,9 @@ pandora.tv
 *.cdn.kmplayer.com
 cdn.kmplayer.com
 *cdn.kmplayer.com*
+
+*.kaspersky.com
+*.kaspersky-labs.com
+*.kaspersky.net
+*.kaspersky.org
+dnl-*.geo.kaspersky.com
